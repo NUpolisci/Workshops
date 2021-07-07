@@ -1,11 +1,6 @@
 # Workshops
 This repository is a clearing house for resources for individual workshops held at the Politcal Science Department at Northwestern University. These workshops are taught using R. 
 
-# Software
-For workshops, it's best to install [R and RStudio] (https://sites.northwestern.edu/researchcomputing/resources/r-and-rstudio/) on your own laptop (both are free). If you can't install these programs or run into issues installing packages, [RStudio Cloud] (https://sites.northwestern.edu/researchcomputing/resources/r-and-rstudio/#option-2-rstudio-cloud) is a good option. 
-
-# Workshops 
-
 ## Current Workshops 
 [Fall Module 1](https://github.com/NUpolisci/Fall-Module-1)
 
@@ -32,7 +27,12 @@ For workshops, it's best to install [R and RStudio] (https://sites.northwestern.
 
 [Intermediate Beginner Fall 2018](https://github.com/NUpolisci/Intermediate-Beginner-R-Fall-2018)
 
+# Software
+For workshops, it's best to install [R and RStudio] (https://sites.northwestern.edu/researchcomputing/resources/r-and-rstudio/) on your own laptop (both are free). If you can't install these programs or run into issues installing packages, [RStudio Cloud] (https://sites.northwestern.edu/researchcomputing/resources/r-and-rstudio/#option-2-rstudio-cloud) is a good option. 
+
 # Resources 
+A list of various resources to help you along your R journey.
+
 ## Research Consulting Services
 For additional resources in R, look on the [NUIT Research Consulting Services](https://sites.northwestern.edu/researchcomputing/) page, which include many useful blog posts on solving many common problems in R (as well as other programming languages).
 
