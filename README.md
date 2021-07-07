@@ -7,10 +7,20 @@ For workshops, it's best to install [R and RStudio] (https://sites.northwestern.
 # Workshops 
 
 ## Current Workshops 
+[Fall Module 1](https://github.com/NUpolisci/Fall-Module-1)
+[Fall Module 2](https://github.com/NUpolisci/Fall-Module-2)
+[Fall Module 3](https://github.com/NUpolisci/Fall-Module-3)
+[ggplot](https://github.com/NUpolisci/ggplot-workshop)
+[Teaching R](https://github.com/NUpolisci/2021-teaching-r-workshop)
+[Introduction to Map Functions](https://github.com/NUpolisci/Introduction-to-Map-Functions-in-R)
+[Solving Programming Problems on Your Own](https://github.com/NUpolisci/Solving-programming-problems-in-R-on-your-own)
 
 ## Past workshops
-
-[Math Camp 2020](https://github.com/NUpolisci/pols-math-camp-2020)
+[Causal Inference Spring 2021)[https://github.com/NUpolisci/Causal-Inference-Spring-2021)
+[Math Camp Fall 2020](https://github.com/NUpolisci/pols-math-camp-2020)
+[Advanced Beginninger Fall 2020](https://github.com/NUpolisci/Advanced-Beginner-R-Fall-2020)
+[Intermediate Beginner Fall 2019](https://github.com/NUpolisci/Intermediate-Beginner-R-Fall-2019)
+[Intermediate Beginner Fall 2018](https://github.com/NUpolisci/Intermediate-Beginner-R-Fall-2018)
 
 # Resources 
 ## Research Consulting Services
