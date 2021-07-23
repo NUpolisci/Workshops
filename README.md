@@ -1,5 +1,5 @@
 # Workshops
-This repository is a clearing house for resources for individual workshops held at the Politcal Science Department at Northwestern University. These workshops are taught using R. 
+This repository is a clearing house for resources for individual workshops held at the Politcal Science Department at Northwestern University. These workshops are taught using R. For information about how to access the files, see this guide [here](https://github.com/NUpolisci/How-to-use-Github-repositories-for-workshops).
 
 ## Current Workshops 
 [Fall Module 1](https://github.com/NUpolisci/Fall-Module-1)
@@ -32,6 +32,9 @@ For workshops, it's best to install [R and RStudio] (https://sites.northwestern.
 
 # Resources 
 A list of various resources to help you along your R journey.
+
+## Github 
+If you want to learn more about how to use Github, visit the repository [Here](https://github.com/NUpolisci/How-to-Pull-Push-Merge).
 
 ## Research Consulting Services
 For additional resources in R, look on the [NUIT Research Consulting Services](https://sites.northwestern.edu/researchcomputing/) page, which include many useful blog posts on solving many common problems in R (as well as other programming languages).
