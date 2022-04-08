@@ -8,14 +8,15 @@ This repository is a clearing house for resources for individual workshops held 
 
 [Fall Module 3](https://github.com/NUpolisci/Fall-Module-3)
 
-[ggplot](https://github.com/NUpolisci/ggplot-workshop)
-[ggplot, part 2] (https://github.com/NUpolisci/Adv_ggplot_W22)
+[ggplot](https://github.com/NUpolisci/ggplot-workshop) 
+
+[ggplot, part 2](https://github.com/NUpolisci/Adv_ggplot_W22)
 
 [Teaching R](https://github.com/NUpolisci/2021-teaching-r-workshop)
 
 [Introduction to Map Functions](https://github.com/NUpolisci/Introduction-to-Map-Functions-in-R)
 
-[Factor Variables and Tables] (https://github.com/NUpolisci/IntermedTidyFactor)
+[Factor Variables and Tables](https://github.com/NUpolisci/IntermedTidyFactor)
 
 [Solving Programming Problems on Your Own](https://github.com/NUpolisci/Solving-programming-problems-in-R-on-your-own)
 
